@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UTS-AKB-IF1-10116029-master.iml" filepath="$PROJECT_DIR$/UTS-AKB-IF1-10116029-master.iml" group="UTS-AKB-IF1-10116029-master" />
+      <module fileurl="file://$PROJECT_DIR$/UTS-AKB-IF3-10117096-master.iml" filepath="$PROJECT_DIR$/UTS-AKB-IF3-10117096-master.iml" group="UTS-AKB-IF3-10117096-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="UTS-AKB-IF3-10117096-master/app" />
+    </modules>
+  </component>
+</project>
